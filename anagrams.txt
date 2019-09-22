@@ -34,7 +34,5 @@ int main()
             printf("\nStrings are not Anagram");
         else
             printf("\nStrings are Anagram");
-    }
-    getch();
-    return 0;
+    }    return 0;
 }
